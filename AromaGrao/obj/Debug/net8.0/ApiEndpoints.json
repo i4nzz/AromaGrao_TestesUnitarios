@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AromaGrao.Controllers.PedidoController",
+    "Method": "Calcular",
+    "RelativePath": "pedido/calcular",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AromaGrao.Models.PedidoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
